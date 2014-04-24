@@ -2,7 +2,7 @@
 
 /**
  * CopyRecordBehavior is behavior for CActiveRecord, which copies the current record
- * according to certain rules
+ * according to certain rules.
  *
  * @author Oleg Pustovalov <oleg@portalnews.ru>
  * @license http://www.opensource.org/licenses/bsd-license.php
