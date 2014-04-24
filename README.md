@@ -1,7 +1,7 @@
 copyRecord
 ==========
 
-Extension for yii. Copy the record in CGridView.
+Extension for yii. Copy the current record in CGridView according to certain rules.
 
 ## Requirements ##
 
