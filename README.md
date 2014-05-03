@@ -9,7 +9,7 @@ Extension for yii. Copy the current record in CGridView according to certain rul
 
 ## Testing ##
 
- * Yii 1.13
+ * Yii 1.1.13
 
 ## Installation ##
 
